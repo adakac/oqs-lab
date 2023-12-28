@@ -1,0 +1,15 @@
+This file contains the replaced outlier datasets:
+
+ID;Ping Sent;Ping Received;ping-mdev;ping-avg;dur-sec;dur-ms
+X25519-GLOBAL-27;10;10;72,485;37,702;0,111;111
+X25519-GLOBAL-58;10;10;2,026;14,413;0,390;390
+X25519-LOCAL-66;10;10;2,301;13,822;0,408;408
+CYBER786-GLOBAL-87;10;10;0,798;13,468;1,211;1211
+CYBER786-GLOBAL-88;10;10;2,172;13,678;0,375;375
+CYBER786-LOCAL-34;10;10;2,281;15,517;1,425;1425
+CYBER786-LOCAL-48;2,803ms;17,072ms;0,361;361
+
+ID;Ping Sent;Ping Received;ping-mdev;ping-avg;response;dur-sec;dur-ms
+kyber768sha384-ecdsanistp384dilithium3-7;10;10;0,010;0,045;inet;0,150;150
+curve25519sha256@libssh.org-rsa-52;10;10;0,005;0,040;inet;2,872;2872
+curve25519sha256@libssh,org-rsa-65;10;10;0,01;0,03;inet;0,572
