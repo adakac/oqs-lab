@@ -1,6 +1,7 @@
 # oqs-lab
 This repo contains uncut versions of the used scripts and datasets.
-*IMPORTANT: This repository only uses the OQS-Repositories and does not have any links to said organization.*
+
+__IMPORTANT: This repository only uses the OQS-Repositories and does not have any links to said organization.__
 
 ## Background
 This repository is part of my bachelor thesis work and intends to enable reproducability in regard to the lab setup. 
